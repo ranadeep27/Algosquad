@@ -1,7 +1,7 @@
-# Algosquad  
+# Learno
 
 ## Overview  
-Algosquad is an innovative AI-powered learning platform designed to enhance users' knowledge through personalized quizzes and feedback. It leverages advanced algorithms to track progress, identify weak areas, and provide targeted learning recommendations.  
+Learno is an innovative AI-powered learning platform designed to enhance users' knowledge through personalized quizzes and feedback. It leverages advanced algorithms to track progress, identify weak areas, and provide targeted learning recommendations.  
 
 ## Features  
 - **Daily Quiz:** Get daily questions curated by an AI engine to challenge and improve your skills.  
